@@ -2,6 +2,8 @@
 
 ## Ссылка на данную инструкцию
 
+https://github.com/igancev/nokia53-service-warranty
+
 После сканирования с бумаги qr кода можно будет открыть кликабельные ссылки с youtube, которые будут ниже по тексту.
 
 ![qr код](http://qrcoder.ru/code/?https%3A%2F%2Fgithub.com%2Figancev%2Fnokia53-service-warranty&4&0)
